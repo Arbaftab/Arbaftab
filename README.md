@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently student<br>👯 I’m looking to collaborate on big tech companies<br>🤝 I’m looking for help with professional data scientist<br>🌱 I’m currently learning data science and data analytics and ai<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently student<br>👯 I’m looking to collaborate on big tech companies<br>🤝 I’m looking to grow with professional data scientist<br>🌱 I’m currently learning data science and data analytics and ai<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
